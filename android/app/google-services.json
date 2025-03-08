@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035204389827",
+    "project_id": "flard-4fb78",
+    "storage_bucket": "flard-4fb78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035204389827:android:bc9c57a360b266de3deb76",
+        "android_client_info": {
+          "package_name": "com.example.itec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3yhxzYVJbER8Wb1KiHO_QqhMUbQqJxyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

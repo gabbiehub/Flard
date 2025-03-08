@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+               BuildableName = "itec.app"
+=======
                BuildableName = "flard.app"
+>>>>>>> ffa78bcc447a6270309e1b01e5db8eab0a6717f6
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+            BuildableName = "itec.app"
+=======
             BuildableName = "flard.app"
+>>>>>>> ffa78bcc447a6270309e1b01e5db8eab0a6717f6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+            BuildableName = "itec.app"
+=======
             BuildableName = "flard.app"
+>>>>>>> ffa78bcc447a6270309e1b01e5db8eab0a6717f6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+            BuildableName = "itec.app"
+=======
             BuildableName = "flard.app"
+>>>>>>> ffa78bcc447a6270309e1b01e5db8eab0a6717f6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

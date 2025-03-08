@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
+    "name": "itec",
+    "short_name": "itec",
+=======
     "name": "flard",
     "short_name": "flard",
+>>>>>>> ffa78bcc447a6270309e1b01e5db8eab0a6717f6
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
+        android:label="itec"
+=======
         android:label="flard"
+>>>>>>> ffa78bcc447a6270309e1b01e5db8eab0a6717f6
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
+project(itec LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "itec")
+=======
 project(flard LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "flard")
+>>>>>>> ffa78bcc447a6270309e1b01e5db8eab0a6717f6
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
