@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801963844458",
+    "project_id": "flardsfinal",
+    "storage_bucket": "flardsfinal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801963844458:android:07c9cd7fa49d930c203b13",
+        "android_client_info": {
+          "package_name": "com.example.flardsfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-nKPXejV9wV8CTpL8sj9xRQWITkeVbkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
